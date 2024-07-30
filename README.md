@@ -84,7 +84,6 @@ struct Ghost
     int y;
 } ghosts[TOTAL_GHOSTS];
 ```
-
 ### Functions
 
 Here's a high-level overview of the key functions used in the game:
