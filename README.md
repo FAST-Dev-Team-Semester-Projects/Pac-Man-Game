@@ -111,7 +111,7 @@ Here's a high-level overview of the key functions used in the game:
 
 ### Example Code Snippets
 
-Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c](../src/pacman.c).
+Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c]([../src/pacman.c](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/src/pacman.c).
 
 #### Increment Score Function
 
@@ -153,7 +153,7 @@ void movePacman(char map[ROWS][COLUMNS], int *pacmanX, int *pacmanY, char direct
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE.txt](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/docs/LICENSE) file for details.
 
 ## Acknowledgements
 
