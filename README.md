@@ -153,7 +153,7 @@ void movePacman(char map[ROWS][COLUMNS], int *pacmanX, int *pacmanY, char direct
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
