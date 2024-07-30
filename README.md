@@ -1,5 +1,5 @@
 # Pac-Man Game
-Faarigh Code
+
 Welcome to the Pac-Man Game! This classic arcade-style game is implemented in C, featuring ghosts, pellets, and walls for an engaging gameplay experience. You control Pac-Man to collect all the pellets while avoiding ghosts. Enjoy the nostalgia!
 
 ## Project Background
