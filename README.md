@@ -2,6 +2,8 @@
 
 Welcome to the Pac-Man Game! This classic arcade-style game is implemented in C, featuring ghosts, pellets, and walls for an engaging gameplay experience. You control Pac-Man to collect all the pellets while avoiding ghosts. Enjoy the nostalgia!
 
+![Title Screen](assets/title-screen.png)
+
 ## Project Background
 
 This Pac-Man game was developed as part of a first semester project for the course "Programming Fundamentals" at FAST NUCES Karachi. The project aimed to apply fundamental programming concepts and techniques learned during the course.
@@ -13,6 +15,8 @@ This Pac-Man game was developed as part of a first semester project for the cour
 - **Pellets**: Collect all pellets to win.
 - **Scoring**: Keep track of your score and lives.
 - **Saving/Loading**: Save your game and load it later.
+
+![Gameplay](assets/gameplay.png)
 
 ## How to Play
 
@@ -28,6 +32,8 @@ This Pac-Man game was developed as part of a first semester project for the cour
 3. **Game Over**: The game ends when you run out of lives or collect all pellets.
 
 4. **Saving**: Press `Q` and choose to save the game before quitting.
+
+![Game Controls](assets/controls.gif)
 
 ## Installation
 
@@ -111,7 +117,7 @@ Here's a high-level overview of the key functions used in the game:
 
 ### Example Code Snippets
 
-Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/src/pacman.c).
+Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c](../src/pacman.c).
 
 #### Increment Score Function
 
@@ -153,7 +159,7 @@ void movePacman(char map[ROWS][COLUMNS], int *pacmanX, int *pacmanY, char direct
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SHaiderM16/Pac-Man-Game/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgements
 
@@ -161,8 +167,4 @@ Special thanks to the creators of the original Pac-Man game for the inspiration.
 
 ## Contact
 
-For any questions or feedback, please contact:
-
-- **Syed Haider Murtaza** at [haidermurtaza16@gmail.com](mailto:haidermurtaza16@gmail.com)
-- **Muhammad Rayyan** at [imuhammadrayyan@gmail.com](mailto:imuhammadrayyan@gmail.com)
-- **Mujtaba Kamran** at [mujtaba.kamran2004@gmail.com](mujtaba.kamran2004@gmail.com)
+For any questions or feedback, please contact **Syed Haider Murtaza** at [haidermurtaza16@gmail.com](mailto:haidermurtaza16@gmail.com)
