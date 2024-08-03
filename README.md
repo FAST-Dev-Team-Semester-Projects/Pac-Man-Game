@@ -167,4 +167,8 @@ Special thanks to the creators of the original Pac-Man game for the inspiration.
 
 ## Contact
 
-For any questions or feedback, please contact **Syed Haider Murtaza** at [haidermurtaza16@gmail.com](mailto:haidermurtaza16@gmail.com)
+For any questions or feedback, please contact:
+
+- **Syed Haider Murtaza** at [haidermurtaza16@gmail.com](mailto:haidermurtaza16@gmail.com)
+- **Muhammad Rayyan** at [imuhammadrayyan@gmail.com](mailto:imuhammadrayyan@gmail.com)
+- **Mujtaba Kamran** at [mujtaba.kamran2004@gmail.com](mujtaba.kamran2004@gmail.com)
