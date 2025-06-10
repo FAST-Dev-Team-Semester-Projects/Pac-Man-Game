@@ -42,7 +42,7 @@ To compile and run the game, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/SHaiderM16/Pac-Man-Game.git
+    git clone https://github.com/FAST-Dev-Team-Semester-Projects/Pac-Man-Game.git
     ```
 
 2. **Navigate to the project directory**:
