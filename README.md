@@ -117,7 +117,7 @@ Here's a high-level overview of the key functions used in the game:
 
 ### Example Code Snippets
 
-Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c](../src/pacman.c).
+Here's a quick look at some of the core game functions. For full code, please check the source file [pacman.c](https://github.com/FAST-Dev-Team-Semester-Projects/Pac-Man-Game/blob/main/src/pacman.c).
 
 #### Increment Score Function
 
